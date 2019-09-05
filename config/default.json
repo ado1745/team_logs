@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://serg:admin13@workflow-dvmjv.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "secret"
+}
